@@ -12,6 +12,7 @@
 		2C45BD7E1F626CD10042395E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C45BD7C1F626CD10042395E /* Main.storyboard */; };
 		2C45BD801F626CD10042395E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C45BD7F1F626CD10042395E /* Assets.xcassets */; };
 		2C45BD831F626CD20042395E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C45BD811F626CD20042395E /* LaunchScreen.storyboard */; };
+		2C45BD8D1F6278490042395E /* AbstractControlPK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C45BD8C1F6278480042395E /* AbstractControlPK.swift */; };
 		7598BD3A1F626F9D001509EF /* AbstractControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7598BD391F626F9D001509EF /* AbstractControl.swift */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,7 @@
 		2C45BD7F1F626CD10042395E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2C45BD821F626CD20042395E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2C45BD841F626CD20042395E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C45BD8C1F6278480042395E /* AbstractControlPK.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AbstractControlPK.swift; sourceTree = "<group>"; };
 		7598BD391F626F9D001509EF /* AbstractControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AbstractControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -63,6 +65,7 @@
 				2C45BD811F626CD20042395E /* LaunchScreen.storyboard */,
 				2C45BD841F626CD20042395E /* Info.plist */,
 				7598BD391F626F9D001509EF /* AbstractControl.swift */,
+				2C45BD8C1F6278480042395E /* AbstractControlPK.swift */,
 			);
 			path = TestGithubProject;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			files = (
 				7598BD3A1F626F9D001509EF /* AbstractControl.swift in Sources */,
 				2C45BD7B1F626CD10042395E /* ViewController.swift in Sources */,
+				2C45BD8D1F6278490042395E /* AbstractControlPK.swift in Sources */,
 				2C45BD791F626CD00042395E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
